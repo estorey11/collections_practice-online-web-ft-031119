@@ -3,7 +3,7 @@ def sort_array_asc(a)
 end
 
 def sort_array_desc(a)
-  a.sort()
+  a.sort{|x,y| }
 end
 
 def
