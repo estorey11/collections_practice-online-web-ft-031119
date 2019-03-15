@@ -17,11 +17,11 @@ def swap_elements(a)
   a[2]=e1
   a
 end
-=begin
+
 def
   
 end
-
+=begin
 def
   
 end
