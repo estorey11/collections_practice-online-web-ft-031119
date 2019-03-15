@@ -32,7 +32,7 @@ def kesha_maker(a1)
 end
 
 def find_a(a)
-  a.keep_if
+  a.keep_if{|s| s[0]=="a"}
 end
 =begin
 def
