@@ -35,7 +35,7 @@ def find_a(a)
   a.keep_if{|s| s[0]=="a"}
 end
 
-def
+def sum_array(a)
   
 end
 =begin
