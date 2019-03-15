@@ -23,10 +23,12 @@ def reverse_array(a)
 end
 
 def kesha_maker(a1)
-  a2
+  a2=[]
   a1.each {|s|
-    
+    s[2]="$"
+    a2 << s
   }
+  a2
 end
 =begin
 def
