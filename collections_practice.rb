@@ -42,5 +42,14 @@ def sum_array(a)
 end
 
 def add_s(a)
-  a.each_with_index
+  a2=[]
+  a.each_with_index{|e, ind|
+    if ind==1 
+      a2 << e
+    else
+      e << "s"
+      a2<< e
+    end
+  }
+  a2
 end
