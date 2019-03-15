@@ -11,7 +11,11 @@ def sort_array_char_count(a)
 end
 
 def swap_elements(a)
-  
+  e1=a(1)
+  e2=a(2)
+  a(1)=e2
+  a(2)=e1
+  a
 end
 =begin
 def
