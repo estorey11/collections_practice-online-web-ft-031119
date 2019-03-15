@@ -19,7 +19,7 @@ def swap_elements(a)
 end
 
 def reverse_array(a)
-  
+  a.reverse
 end
 =begin
 def
