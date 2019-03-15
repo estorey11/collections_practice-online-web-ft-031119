@@ -41,6 +41,6 @@ def sum_array(a)
   sum
 end
 
-def
+def sum_array()
   
 end
