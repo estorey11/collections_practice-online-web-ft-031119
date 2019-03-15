@@ -22,8 +22,11 @@ def reverse_array(a)
   a.reverse
 end
 
-def kesha_maker(a)
-  
+def kesha_maker(a1)
+  a2
+  a1.each {|s|
+    
+  }
 end
 =begin
 def
