@@ -37,10 +37,10 @@ end
 
 def sum_array(a)
   sum=0 
-  
+  a.each{|i| sum+=i}
+  sum
 end
-=begin
+
 def
   
 end
-=end
