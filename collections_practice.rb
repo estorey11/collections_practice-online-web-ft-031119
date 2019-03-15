@@ -3,9 +3,9 @@ def sort_array_asc(a)
 end
 
 def sort_array_desc(a)
-  a.sort{|x,y| }
+  a.sort{|x,y| y<=>x}
 end
-
+=begin
 def
   
 end
