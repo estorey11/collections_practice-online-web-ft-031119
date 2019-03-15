@@ -31,7 +31,7 @@ def kesha_maker(a1)
   a2
 end
 
-def
+def find_a(a)
   
 end
 =begin
