@@ -32,7 +32,7 @@ def kesha_maker(a1)
 end
 
 def find_a(a)
-  
+  a.all?
 end
 =begin
 def
