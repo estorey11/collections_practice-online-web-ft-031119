@@ -6,7 +6,7 @@ def sort_array_desc(a)
   a.sort{|x,y| y<=>x}
 end
 
-def
+def sort_array_char_count
   
 end
 
