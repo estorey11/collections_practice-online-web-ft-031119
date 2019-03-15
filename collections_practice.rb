@@ -41,6 +41,6 @@ def sum_array(a)
   sum
 end
 
-def sum_array()
-  
+def add_s(a)
+  a.each_with_index
 end
