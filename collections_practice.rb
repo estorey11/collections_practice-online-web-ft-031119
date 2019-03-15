@@ -34,11 +34,11 @@ end
 def find_a(a)
   a.keep_if{|s| s[0]=="a"}
 end
-=begin
+
 def
   
 end
-
+=begin
 def
   
 end
