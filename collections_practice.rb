@@ -18,7 +18,7 @@ def swap_elements(a)
   a
 end
 
-def
+def reverse_array(a)
   
 end
 =begin
